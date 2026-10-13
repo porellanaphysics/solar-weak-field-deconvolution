@@ -1,16 +1,27 @@
+# Large astronomical observation data (> 100MB FITS & NPZ files)
 data/
-venv/
-__pycache__/
 output/
 
+# Virtual environment and Python caches
+venv/
+.env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# LaTeX build auxiliary files
 *.aux
 *.bbl
+*.blg
 *.fdb_latexmk
 *.fls
 *.log
 *.out
 *.synctex.gz
 *.toc
-main.pdf
-*.blg
-__pycache__/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
