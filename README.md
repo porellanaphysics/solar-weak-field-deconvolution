@@ -8,9 +8,9 @@
 [![UGR](https://img.shields.io/badge/Institution-Universidad%20de%20Granada-red?style=flat-square)](https://www.ugr.es/)
 [![IAA-CSIC](https://img.shields.io/badge/Collaborator-IAA--CSIC-blue?style=flat-square)](https://www.iaa.csic.es/)
 
-> **Bachelor's Thesis in Physics (Trabajo de Fin de Grado)**  
-> **Author**: D. Pablo Orellana Chornyak  
-> **Academic Year**: 2025/2026 | **Degree**: Grado en Física, Universidad de Granada  
+> **Bachelor's Thesis in Physics (Trabajo de Fin de Grado)** — *Grade: 9.4 / 10*  
+> **Author**: [Pablo Orellana Chornyak](https://github.com/porellanaphysics) ([LinkedIn](https://linkedin.com/in/p-orellana) · [Email](mailto:pablo.orellana.physics@gmail.com))  
+> **Academic Profile**: Graduado en Física (Universidad de Granada) | Estudiante del Máster en Ciencias y Tecnologías desde el Espacio (Universidad de Alcalá)  
 > **Collaborating Institution**: Instituto de Astrofísica de Andalucía (IAA-CSIC), Solar Physics Department  
 > 📄 **Thesis Monograph**: [`docs/main.pdf`](docs/main.pdf) (13 MB)  
 > 📊 **Defense Slides**: [`docs/PresentacionFinal.pdf`](docs/PresentacionFinal.pdf) (24 MB)  
